@@ -1,0 +1,11 @@
+﻿int a, b;
+Console.WriteLine("Ingrese primer numero:");
+a = int.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese segundo numero:");
+b = int.Parse(Console.ReadLine());
+a = a + b;
+b = a - b;
+a = a - b;
+Console.WriteLine("Valores intercambiados:");
+Console.WriteLine("a = " + a);
+Console.WriteLine("b = " + b);
