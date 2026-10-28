@@ -1,0 +1,14 @@
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\bin\Debug\net10.0\ejer01.exe
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\bin\Debug\net10.0\ejer01.deps.json
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\bin\Debug\net10.0\ejer01.runtimeconfig.json
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\bin\Debug\net10.0\ejer01.dll
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\bin\Debug\net10.0\ejer01.pdb
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.AssemblyInfoInputs.cache
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.AssemblyInfo.cs
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.csproj.CoreCompileInputs.cache
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.dll
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\refint\ejer01.dll
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.pdb
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ejer01.genruntimeconfig.cache
+D:\Competencia_Algoritmos\ejercicios-secuenciales\src\ejer01\obj\Debug\net10.0\ref\ejer01.dll
